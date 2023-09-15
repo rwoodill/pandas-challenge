@@ -3,7 +3,13 @@
 Authored by Rachel Woodill
 
 #----------------------------------
+File Locations:
+ - Starter code (untouched): pandas-challenge > Starter_Code
+ - Edited code by Rachel: pandas-challenge > PyCitySchools > PyCitySchools_Rachel.ipynb
+ - csv files used for data: pandas-challenge > PyCitySchools > Resources > schools_complete.csv / students_complete.csv
 
+#----------------------------------
+Instructions
  
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
